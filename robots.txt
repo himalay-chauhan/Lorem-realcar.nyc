@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /*.js
+Allow: /*.css
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Sitemap: https://realcar.nyc/sitemap.xml.gz

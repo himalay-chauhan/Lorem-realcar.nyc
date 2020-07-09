@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>passengers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-36.000000, -298.000000)">
+            <g id="passengers" transform="translate(28.000000, 292.000000)">
+                <rect id="Rectangle-3" fill="#D8D8D8" opacity="0" x="0" y="0" width="32" height="32"></rect>
+                <path d="M13.9697628,13.0789641 C13.1558143,12.3899177 13.0474009,11.4325561 12.9799972,10.7173063 C12.8099014,8.91234429 13.6365101,7.70564242 15.0820803,7.2334085 C18.1096867,6.24436038 19.6570008,8.63233775 19.8174836,10.0259518 C19.9779663,11.4195659 19.2546719,13.1861105 17.2055342,14.4362352 C15.1563965,15.6863599 11.8185678,15.881039 9.79731811,19.0373147 C8.44981832,21.1414985 8.81031531,23.4623936 10.8788091,26 L20.3669,26 C24.2158694,22.7827619 23.8451267,19.4591347 19.2546719,16.0291185" id="Path-2" stroke="#494949" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
